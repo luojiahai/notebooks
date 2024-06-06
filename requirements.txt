@@ -1,2 +1,6 @@
 jupyter
 transformers
+optimum
+datasets
+sentencepiece
+tts
