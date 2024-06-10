@@ -4,3 +4,5 @@ optimum
 datasets
 sentencepiece
 ipywidgets
+soundfile
+librosa
