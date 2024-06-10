@@ -3,4 +3,4 @@ transformers
 optimum
 datasets
 sentencepiece
-tts
+ipywidgets
